@@ -1,4 +1,4 @@
-assignment02
+# assignment02
 1.要在環境安裝matplotlib(在終端輸入 pip install matplotlib)
 
 2.先執行input01.py 再執行visualization.py
